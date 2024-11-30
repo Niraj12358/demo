@@ -1,3 +1,5 @@
 #demo 
-tis is my first git reposistory
+this is my first git reposistory
+
+<br>
 authour niraj pandey
