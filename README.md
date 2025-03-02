@@ -1,8 +1,4 @@
-#demo 
-this is my first git reposistory
 
-<br>
-authour niraj pandey
 def calculator(num1, num2,op):
     result=0
     if(op=="+"):
